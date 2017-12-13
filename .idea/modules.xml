@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NoteHelper.iml" filepath="$PROJECT_DIR$/NoteHelper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-iconify/android-iconify.iml" filepath="$PROJECT_DIR$/android-iconify/android-iconify.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-iconify-fontawesome/android-iconify-fontawesome.iml" filepath="$PROJECT_DIR$/android-iconify-fontawesome/android-iconify-fontawesome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-iconify-ionicons/android-iconify-ionicons.iml" filepath="$PROJECT_DIR$/android-iconify-ionicons/android-iconify-ionicons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/example.iml" filepath="$PROJECT_DIR$/example/example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leo-annotations/leo-annotations.iml" filepath="$PROJECT_DIR$/leo-annotations/leo-annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leo-compiler/leo-compiler.iml" filepath="$PROJECT_DIR$/leo-compiler/leo-compiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leo-core/leo-core.iml" filepath="$PROJECT_DIR$/leo-core/leo-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leo-ec/leo-ec.iml" filepath="$PROJECT_DIR$/leo-ec/leo-ec.iml" />
+    </modules>
+  </component>
+</project>

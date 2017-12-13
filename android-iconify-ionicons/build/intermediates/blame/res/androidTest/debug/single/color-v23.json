@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\NoteHelper\\android-iconify-ionicons\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "E:\\Program Files\\Java\\adt-bundle-windows-x86_64-20140321\\sdk\\.android\\build-cache\\ff3baffc62cc50b9b64216f929e6f0c817dd9f7a\\output\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\NoteHelper\\android-iconify-ionicons\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "E:\\Program Files\\Java\\adt-bundle-windows-x86_64-20140321\\sdk\\.android\\build-cache\\ff3baffc62cc50b9b64216f929e6f0c817dd9f7a\\output\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\NoteHelper\\android-iconify-ionicons\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "E:\\Program Files\\Java\\adt-bundle-windows-x86_64-20140321\\sdk\\.android\\build-cache\\ff3baffc62cc50b9b64216f929e6f0c817dd9f7a\\output\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\NoteHelper\\android-iconify-ionicons\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_switch_thumb.xml",
+        "source": "E:\\Program Files\\Java\\adt-bundle-windows-x86_64-20140321\\sdk\\.android\\build-cache\\ff3baffc62cc50b9b64216f929e6f0c817dd9f7a\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\NoteHelper\\android-iconify-ionicons\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "E:\\Program Files\\Java\\adt-bundle-windows-x86_64-20140321\\sdk\\.android\\build-cache\\ff3baffc62cc50b9b64216f929e6f0c817dd9f7a\\output\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\NoteHelper\\android-iconify-ionicons\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "E:\\Program Files\\Java\\adt-bundle-windows-x86_64-20140321\\sdk\\.android\\build-cache\\ff3baffc62cc50b9b64216f929e6f0c817dd9f7a\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\NoteHelper\\android-iconify-ionicons\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "E:\\Program Files\\Java\\adt-bundle-windows-x86_64-20140321\\sdk\\.android\\build-cache\\ff3baffc62cc50b9b64216f929e6f0c817dd9f7a\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\NoteHelper\\android-iconify-ionicons\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "E:\\Program Files\\Java\\adt-bundle-windows-x86_64-20140321\\sdk\\.android\\build-cache\\ff3baffc62cc50b9b64216f929e6f0c817dd9f7a\\output\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\NoteHelper\\android-iconify-ionicons\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "E:\\Program Files\\Java\\adt-bundle-windows-x86_64-20140321\\sdk\\.android\\build-cache\\ff3baffc62cc50b9b64216f929e6f0c817dd9f7a\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\NoteHelper\\android-iconify-ionicons\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "E:\\Program Files\\Java\\adt-bundle-windows-x86_64-20140321\\sdk\\.android\\build-cache\\ff3baffc62cc50b9b64216f929e6f0c817dd9f7a\\output\\res\\color-v23\\abc_color_highlight_material.xml"
+    }
+]

@@ -1,0 +1,28 @@
+buildscript {
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.3.0'
+    }
+}
+
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 26
+    buildToolsVersion '26.0.2'
+
+    defaultConfig {
+        minSdkVersion 15
+        consumerProguardFiles 'proguard-rules.txt'
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_6
+        targetCompatibility JavaVersion.VERSION_1_6
+    }
+}
+
+dependencies {
+    compile 'com.android.support:appcompat-v7:26.+'
+}
+
+//apply from: rootProject.file('gradle/gradle-mvn-push.gradle')
