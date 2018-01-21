@@ -39,4 +39,11 @@ dependencies {
     //ButterKnife依赖，View注入框架
     compile 'com.jakewharton:butterknife:8.5.1'
     annotationProcessor 'com.jakewharton:butterknife-compiler:8.5.1'
+    //retrofit网络框架
+    compile 'com.squareup.okio:okio:1.13.0'
+    compile 'com.squareup.okhttp3:okhttp:3.9.1'
+    compile 'com.squareup.retrofit2:retrofit:2.3.0'
+    compile 'com.squareup.retrofit2:converter-scalars:2.3.0'
+    //load依赖
+    compile 'com.wang.avi:library:2.1.3'
 }
