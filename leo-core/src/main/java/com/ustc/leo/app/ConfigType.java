@@ -9,5 +9,8 @@ public enum ConfigType {
     API_HOST,            //网络请求域名等
     APPLICATION_CONTEXT,  //应用上下文
     CONFIG_READY,        //控制初始化、配置是否完成
-    ICON                 //自己的初始化项目
+    ICON,                 //自己的初始化项目
+    LOADER_DELAYED,
+    HANDLER,
+    INTERCEPTOR
 }
