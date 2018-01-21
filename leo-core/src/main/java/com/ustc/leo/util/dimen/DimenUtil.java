@@ -1,4 +1,4 @@
-package com.ustc.leo.util;
+package com.ustc.leo.util.dimen;
 
 import android.content.res.Resources;
 import android.util.DisplayMetrics;

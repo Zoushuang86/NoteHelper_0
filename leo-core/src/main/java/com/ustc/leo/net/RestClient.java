@@ -7,6 +7,7 @@ import com.ustc.leo.net.callback.IFailure;
 import com.ustc.leo.net.callback.IRequest;
 import com.ustc.leo.net.callback.ISuccess;
 import com.ustc.leo.net.callback.RequesCallbacks;
+import com.ustc.leo.net.download.DownloadHandler;
 import com.ustc.leo.ui.LeoLoader;
 import com.ustc.leo.ui.LoaderStyle;
 
@@ -27,8 +28,11 @@ import retrofit2.Callback;
 public class RestClient {
 
     private final String URL;
-    private final WeakHashMap<String,Object> PARAMS = RestCreator.getParams();
+    private static final WeakHashMap<String,Object> PARAMS = RestCreator.getParams();
     private final IRequest REQUEST;
+    private final String DOWNLOAD_DIR;
+    private final String EXTENSION;
+    private final String NAME;
     private final ISuccess SUCCESS;
     private final IFailure FAILURE;
     private final IError ERROR;
@@ -41,6 +45,9 @@ public class RestClient {
     public RestClient(String url,
                       Map<String, Object> params,
                       IRequest request,
+                      String downloadDir,
+                      String extension,
+                      String name,
                       ISuccess success,
                       IFailure failure,
                       IError error,
@@ -51,6 +58,9 @@ public class RestClient {
         this.URL = url;
         PARAMS.putAll(params);
         this.REQUEST = request;
+        this.DOWNLOAD_DIR = downloadDir;
+        this.EXTENSION = extension;
+        this.NAME = name;
         this.SUCCESS = success;
         this.FAILURE = failure;
         this.ERROR = error;
@@ -152,5 +162,13 @@ public class RestClient {
 
     public final void delete(){
         request(HttpMethod.DELETE);
+    }
+
+    public final void upload(){
+        request(HttpMethod.UPLOAD);
+    }
+
+    public final void download(){
+        new DownloadHandler(URL,REQUEST,DOWNLOAD_DIR,EXTENSION,NAME,SUCCESS,FAILURE,ERROR).handleDownload();
     }
 }
