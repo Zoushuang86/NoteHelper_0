@@ -8,16 +8,16 @@
         "source": "E:\\Program Files\\Java\\adt-bundle-windows-x86_64-20140321\\sdk\\.android\\build-cache\\ff3baffc62cc50b9b64216f929e6f0c817dd9f7a\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
-        "merged": "E:\\Android\\AndroidStudioProjects\\NoteHelper\\android-iconify-ionicons\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png",
-        "source": "E:\\Program Files\\Java\\adt-bundle-windows-x86_64-20140321\\sdk\\.android\\build-cache\\ff3baffc62cc50b9b64216f929e6f0c817dd9f7a\\output\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+        "merged": "E:\\Android\\AndroidStudioProjects\\NoteHelper\\android-iconify-ionicons\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "E:\\Program Files\\Java\\adt-bundle-windows-x86_64-20140321\\sdk\\.android\\build-cache\\ff3baffc62cc50b9b64216f929e6f0c817dd9f7a\\output\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
         "merged": "E:\\Android\\AndroidStudioProjects\\NoteHelper\\android-iconify-ionicons\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
         "source": "E:\\Program Files\\Java\\adt-bundle-windows-x86_64-20140321\\sdk\\.android\\build-cache\\ff3baffc62cc50b9b64216f929e6f0c817dd9f7a\\output\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "E:\\Android\\AndroidStudioProjects\\NoteHelper\\android-iconify-ionicons\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
-        "source": "E:\\Program Files\\Java\\adt-bundle-windows-x86_64-20140321\\sdk\\.android\\build-cache\\ff3baffc62cc50b9b64216f929e6f0c817dd9f7a\\output\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+        "merged": "E:\\Android\\AndroidStudioProjects\\NoteHelper\\android-iconify-ionicons\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "E:\\Program Files\\Java\\adt-bundle-windows-x86_64-20140321\\sdk\\.android\\build-cache\\ff3baffc62cc50b9b64216f929e6f0c817dd9f7a\\output\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
         "merged": "E:\\Android\\AndroidStudioProjects\\NoteHelper\\android-iconify-ionicons\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png",
@@ -60,12 +60,12 @@
         "source": "E:\\Program Files\\Java\\adt-bundle-windows-x86_64-20140321\\sdk\\.android\\build-cache\\ff3baffc62cc50b9b64216f929e6f0c817dd9f7a\\output\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
-        "merged": "E:\\Android\\AndroidStudioProjects\\NoteHelper\\android-iconify-ionicons\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
-        "source": "E:\\Program Files\\Java\\adt-bundle-windows-x86_64-20140321\\sdk\\.android\\build-cache\\ff3baffc62cc50b9b64216f929e6f0c817dd9f7a\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
-    },
-    {
         "merged": "E:\\Android\\AndroidStudioProjects\\NoteHelper\\android-iconify-ionicons\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
         "source": "E:\\Program Files\\Java\\adt-bundle-windows-x86_64-20140321\\sdk\\.android\\build-cache\\ff3baffc62cc50b9b64216f929e6f0c817dd9f7a\\output\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\NoteHelper\\android-iconify-ionicons\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "E:\\Program Files\\Java\\adt-bundle-windows-x86_64-20140321\\sdk\\.android\\build-cache\\ff3baffc62cc50b9b64216f929e6f0c817dd9f7a\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
         "merged": "E:\\Android\\AndroidStudioProjects\\NoteHelper\\android-iconify-ionicons\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",

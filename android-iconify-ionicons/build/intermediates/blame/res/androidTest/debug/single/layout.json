@@ -12,16 +12,16 @@
         "source": "E:\\Program Files\\Java\\adt-bundle-windows-x86_64-20140321\\sdk\\.android\\build-cache\\ff3baffc62cc50b9b64216f929e6f0c817dd9f7a\\output\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
-        "merged": "E:\\Android\\AndroidStudioProjects\\NoteHelper\\android-iconify-ionicons\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_screen_content_include.xml",
-        "source": "E:\\Program Files\\Java\\adt-bundle-windows-x86_64-20140321\\sdk\\.android\\build-cache\\ff3baffc62cc50b9b64216f929e6f0c817dd9f7a\\output\\res\\layout\\abc_screen_content_include.xml"
+        "merged": "E:\\Android\\AndroidStudioProjects\\NoteHelper\\android-iconify-ionicons\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_action.xml",
+        "source": "E:\\Program Files\\Java\\adt-bundle-windows-x86_64-20140321\\sdk\\.android\\build-cache\\ff3baffc62cc50b9b64216f929e6f0c817dd9f7a\\output\\res\\layout\\notification_action.xml"
     },
     {
         "merged": "E:\\Android\\AndroidStudioProjects\\NoteHelper\\android-iconify-ionicons\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\select_dialog_item_material.xml",
         "source": "E:\\Program Files\\Java\\adt-bundle-windows-x86_64-20140321\\sdk\\.android\\build-cache\\ff3baffc62cc50b9b64216f929e6f0c817dd9f7a\\output\\res\\layout\\select_dialog_item_material.xml"
     },
     {
-        "merged": "E:\\Android\\AndroidStudioProjects\\NoteHelper\\android-iconify-ionicons\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_action.xml",
-        "source": "E:\\Program Files\\Java\\adt-bundle-windows-x86_64-20140321\\sdk\\.android\\build-cache\\ff3baffc62cc50b9b64216f929e6f0c817dd9f7a\\output\\res\\layout\\notification_action.xml"
+        "merged": "E:\\Android\\AndroidStudioProjects\\NoteHelper\\android-iconify-ionicons\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\Program Files\\Java\\adt-bundle-windows-x86_64-20140321\\sdk\\.android\\build-cache\\ff3baffc62cc50b9b64216f929e6f0c817dd9f7a\\output\\res\\layout\\abc_screen_content_include.xml"
     },
     {
         "merged": "E:\\Android\\AndroidStudioProjects\\NoteHelper\\android-iconify-ionicons\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_bar_up_container.xml",
