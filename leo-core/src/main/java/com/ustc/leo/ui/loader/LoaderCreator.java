@@ -1,4 +1,4 @@
-package com.ustc.leo.ui;
+package com.ustc.leo.ui.loader;
 
 import android.content.Context;
 

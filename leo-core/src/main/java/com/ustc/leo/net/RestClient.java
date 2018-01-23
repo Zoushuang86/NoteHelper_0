@@ -8,8 +8,8 @@ import com.ustc.leo.net.callback.IRequest;
 import com.ustc.leo.net.callback.ISuccess;
 import com.ustc.leo.net.callback.RequesCallbacks;
 import com.ustc.leo.net.download.DownloadHandler;
-import com.ustc.leo.ui.LeoLoader;
-import com.ustc.leo.ui.LoaderStyle;
+import com.ustc.leo.ui.loader.LeoLoader;
+import com.ustc.leo.ui.loader.LoaderStyle;
 
 import java.io.File;
 import java.util.Map;

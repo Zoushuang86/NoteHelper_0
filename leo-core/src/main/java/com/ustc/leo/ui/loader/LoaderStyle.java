@@ -1,4 +1,4 @@
-package com.ustc.leo.ui;
+package com.ustc.leo.ui.loader;
 
 /**
  * Created by dell on 2017/12/24.

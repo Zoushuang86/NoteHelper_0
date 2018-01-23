@@ -2,8 +2,8 @@ package com.ustc.leo.net.callback;
 
 import android.os.Handler;
 
-import com.ustc.leo.ui.LeoLoader;
-import com.ustc.leo.ui.LoaderStyle;
+import com.ustc.leo.ui.loader.LeoLoader;
+import com.ustc.leo.ui.loader.LoaderStyle;
 
 import retrofit2.Call;
 import retrofit2.Callback;
