@@ -9,6 +9,8 @@ import com.bigkoo.convenientbanner.listener.OnItemClickListener;
 import com.ustc.leo.delegates.LeoDelegate;
 import com.ustc.leo.ec.R;
 import com.ustc.leo.ui.launcher.LauncherHolderCreator;
+import com.ustc.leo.ui.launcher.ScrollLauncherTag;
+import com.ustc.leo.util.storage.LeoPreference;
 
 import java.util.ArrayList;
 
@@ -49,6 +51,10 @@ public class LauncherScrollDelegate extends LeoDelegate implements OnItemClickLi
 
     @Override
     public void onItemClick(int position) {
-
+        //如果点击的是最后一个
+        if(position == INTEGERS.size()-1){
+            LeoPreference.setAppFlag(ScrollLauncherTag.HAS_FIRST_LAUNCHER_APP.name(),true);
+            //检查用户是否已经登录
+        }
     }
 }

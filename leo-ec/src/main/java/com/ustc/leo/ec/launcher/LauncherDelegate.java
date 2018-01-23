@@ -8,6 +8,8 @@ import android.view.View;
 import com.ustc.leo.delegates.LeoDelegate;
 import com.ustc.leo.ec.R;
 import com.ustc.leo.ec.R2;
+import com.ustc.leo.ui.launcher.ScrollLauncherTag;
+import com.ustc.leo.util.storage.LeoPreference;
 import com.ustc.leo.util.timer.BaseTimerTask;
 import com.ustc.leo.util.timer.ITimerListener;
 
@@ -31,7 +33,11 @@ public class LauncherDelegate extends LeoDelegate implements ITimerListener {
 
     @OnClick(R2.id.tv_launcher_timer)
     void onClickTimerView() {
-
+        if (mTimer != null) {
+            mTimer.cancel();
+            mTimer = null;
+            checkIsShowScroll();
+        }
     }
 
     private void initTimer() {
@@ -50,6 +56,16 @@ public class LauncherDelegate extends LeoDelegate implements ITimerListener {
         initTimer();
     }
 
+    //判断是否显示滑动启动页
+    private void checkIsShowScroll(){
+        if(!LeoPreference.getAppFlag(ScrollLauncherTag.HAS_FIRST_LAUNCHER_APP.name())){
+            start(new LauncherScrollDelegate(), SINGLETASK);
+        }else {
+            //检查用户是否登录了APP
+        }
+    }
+
+
     @Override
     public void onTimer() {
         getProxyActivity().runOnUiThread(new Runnable() {
@@ -62,6 +78,7 @@ public class LauncherDelegate extends LeoDelegate implements ITimerListener {
                         if (mTimer != null) {
                             mTimer.cancel();
                             mTimer = null;
+                            checkIsShowScroll();
                         }
                     }
                 }
